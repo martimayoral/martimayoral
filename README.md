@@ -143,5 +143,7 @@ I'm always interested in collaborating on exciting projects or discussing web de
 ---
 
 <div align="center">
+
   ![Profile Views](https://komarev.com/ghpvc/?username=martimayoral&color=blueviolet&style=flat-square)
+
 </div>
