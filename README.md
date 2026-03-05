@@ -130,7 +130,7 @@ const marti = {
 
 ## 🌍 Languages
 
-🇬🇧 English | 🇪🇸 Spanish | 🇪🇸 Catalan
+English | Spanish | Catalan
 
 ## 📫 Let's Connect
 
